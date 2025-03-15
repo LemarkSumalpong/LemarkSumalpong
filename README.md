@@ -3,8 +3,6 @@
 - I am currently exploring react and windtail css
 - email: sumalponglemark@gmail.com
 - social accounts: www.facebook.com/pacifist.lem
-- Pronouns: He/Him
-- Currently working on my personal projects: 1/4 WIP
 
 <!---
 LemarkSumalpong/LemarkSumalpong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
